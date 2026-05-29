@@ -54,6 +54,7 @@ kubectl get nodes
 
 | Module | Topic | Weight |
 |--------|-------|--------|
+| [00](./Module-00-Local-Setup-macOS.md) | Local Setup — macOS Practice Environment | Prerequisites |
 | [01](./Module-01-Linux-Container-Fundamentals.md) | Linux & Container Fundamentals | Foundation |
 | [02](./Module-02-Kubernetes-Architecture.md) | Kubernetes Architecture | ~10% |
 | [03](./Module-03-Cluster-Installation-Configuration.md) | Cluster Installation & Configuration | ~15% |
@@ -82,6 +83,7 @@ kubectl get nodes
 ## Daily Study Routine
 
 ```
+Day 0     → Module 00 (Install all tools — do this before anything else)
 Day 1–2   → Module 01 (Linux + Docker)
 Day 3–4   → Module 02 (Architecture)
 Day 5–7   → Module 03 (Cluster setup — kubeadm)
